@@ -42,8 +42,7 @@ Ideal para artistas 3D, educadores ou desenvolvedores que desejam explorar novas
 - Use bibliotecas Python como `speech_recognition` e `pyaudio`
 
 ## 🎥 Demonstração
-![BitBlender Demo](demo.gif)
-
+![BitBlender Demo](https://raw.githubusercontent.com/tiagocopelli/BitBleder/refs/heads/main/bloggif_682d2ff63791f.gif)
 
 ## 🧠 Comandos por Voz (Exemplos)
 - `"renderizar"` → inicia renderização
