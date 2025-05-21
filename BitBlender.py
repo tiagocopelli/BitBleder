@@ -11,8 +11,8 @@ from bpy.types import Operator, Panel, Menu
 from datetime import datetime, timedelta
 
 bl_info = {
-    "name": "Viewport Joystick Navigation with Voice",
-    "blender": (3, 0, 0),
+    "description": "Viewport Joystick Navigation with Voice",
+    "blender": (4, 0, 0),
     "category": "3D View",
 }
 
