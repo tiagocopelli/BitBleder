@@ -50,13 +50,6 @@ Ideal para artistas 3D, educadores ou desenvolvedores que desejam explorar novas
 - `"cubo"` → Abre um cubo
 - `"modo orbital"` / `"modo livre"` → troca o modo de navegação
 
-## 📁 Estrutura do Projeto
-
-bitblender/
-├── pico_code/              # Código da Raspberry Pi Pico W
-├── blender_addon/          # Addon para Blender (Python)               
-└── README.md
-
 ## 🙋‍♂️ Autor
 Desenvolvido por [Tiago Lauriano Copelli](https://github.com/tiagocopelli)  
 Residência Tecnológica em Sistemas Embarcados  
