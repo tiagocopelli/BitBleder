@@ -1,7 +1,7 @@
 # 🕹️ BitBlender - EmbarcaHack
 
 BitBlender é um projeto de interface interativa que conecta um joystick da placa BitDogLab para controlar a Viewport do Blender em tempo real via UDP, com suporte adicional a comandos por voz através do Google Cloud Speech-to-Text.
-Ideal para artistas 3D, educadores ou desenvolvedores que desejam explorar novas formas de interagir com o Blender, o BitBlender oferece modos de navegação personalizados e feedback visual em tempo real via OLED e LEDs.
+Ideal para artistas 3D, educadores ou desenvolvedores que desejam explorar novas formas de interagir com o Blender, o BitBlender oferece modos de navegação personalizados e feedback visual em tempo real.
 
 
 ## 🔧 Funcionalidades
